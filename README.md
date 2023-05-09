@@ -37,7 +37,7 @@ source ~/.functions/logging.sh
 .
 ```
 
-## Archiving and compression functinos (`compression.sh`)
+## Archiving and compression (`compression.sh`)
 ### `tarxz`
 Archives and compresses using `xz`.
 ```
